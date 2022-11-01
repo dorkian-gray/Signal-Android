@@ -1,3 +1,7 @@
+A fork of Signal that retains the SMS functionality I rely on. I am not a dev and can barely bash out simple working scripts so this is more for archival purposes than anything. Original Signal readme below.
+
+----------
+
 # Signal Android 
 
 Signal is a messaging app for simple private communication with friends.
